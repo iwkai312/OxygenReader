@@ -61,16 +61,16 @@
    cd OxygenReader
 
 2. **安装依赖**
- ```bash
-pip install PyQt5 pymupdf keyboard requests pynput pyinstaller
+    ```bash
+   pip install PyQt5 pymupdf keyboard requests pynput pyinstaller
 
 3. **运行代码**
-```bash
-python moyu_pro.py
+   ```bash
+   python moyu_pro.py
 
 4. **打包成 EXE 请确保目录下有 logo.ico 文件，然后运行：**
-```bash
-pyinstaller --onefile --noconsole --icon=logo.ico --add-data "logo.ico;." moyu_pro.py
+   ```bash
+   pyinstaller --onefile --noconsole --icon=logo.ico --add-data "logo.ico;." moyu_pro.py
 
 功能,默认按键,说明
 下一行,T,阅读下一行文字
