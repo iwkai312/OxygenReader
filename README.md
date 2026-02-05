@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.ico" width="120" height="120" alt="Oxygen Reader Logo">
+<img src="http://my.wkblog.com.cn/img/logo.ico" width="120" height="120" alt="Oxygen Reader Logo">
 
 # Oxygen Reader | 氧气阅读器
 
@@ -90,9 +90,8 @@ V0.0.1,2026-02-04,[诞生] 首个版本发布，支持 PDF/EPUB/MOBI 等格式�
 ☕ 请作者喝杯咖啡 (Sponsor)
 如果这个小工具帮助你度过了无聊的时光，或者帮你“安全”地读完了几本好书，欢迎请作者喝一杯冰美式！你的支持是我持续更新的动力。
 
-<div align="center"> <img src="https://www.google.com/search?q=https://via.placeholder.com/200x200%3Ftext%3DWeChat%2BPay" alt="微信赞赏" width="200" style="margin-right: 20px;"> <img src="https://www.google.com/search?q=https://via.placeholder.com/200x200%3Ftext%3DAlipay" alt="支付宝赞赏" width="200">
+<div align="center"> <img src="http://my.wkblog.com.cn/img/weixin.png" alt="微信赞赏" width="200" style="margin-right: 20px;"> <img src="http://my.wkblog.com.cn/img/alipay.jpg" alt="支付宝赞赏" width="200">
 
-(请替换为你的微信/支付宝收款码图片)
 
 </div>
 
