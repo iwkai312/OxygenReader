@@ -57,5 +57,5 @@
 
 1. **克隆仓库**
    ```bash
-   git clone [https://github.com/YourUsername/OxygenReader.git](https://github.com/YourUsername/OxygenReader.git)
+   git clone [https://github.com/iwkai312/OxygenReader.git](https://github.com/iwkai312/OxygenReader.git)
    cd OxygenReader
