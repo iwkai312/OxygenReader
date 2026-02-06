@@ -11,7 +11,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/release-V1.1.2-orange.svg)](http://my.wkblog.com.cn/)
 
-[🌐 访问官网](http://my.wkblog.com.cn/) | [📥 立即下载](http://my.wkblog.com.cn/azb/Oxygen.exe) | [🐞 提交反馈](http://my.wkblog.com.cn/)
+[🌐 访问官网](http://my.wkblog.com.cn/) | [📥 立即下载](https://wkai.lanzoue.com/iys9E3hunlpa
+) | [🐞 提交反馈](http://my.wkblog.com.cn/)
 
 </div>
 
